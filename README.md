@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mcodes23
+- 👋 Hi, I’m Mateli Boniface
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Fullstack projects
